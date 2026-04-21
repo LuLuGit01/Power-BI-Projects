@@ -136,15 +136,15 @@ Full transaction-level data including:
 
 ### 🛠️ Tools & Technologies
 
-Power BI – Data visualization & dashboard creation
+- Power BI – Data visualization & dashboard creation
 
-Power Query – Data cleaning & transformation
+- Power Query – Data cleaning & transformation
 
-DAX (Data Analysis Expressions) – Calculated measures & KPIs
+- DAX (Data Analysis Expressions) – Calculated measures & KPIs
 
-VS Code – Project structure & version control
+- VS Code – Project structure & version control
 
-GitHub – Project hosting
+- GitHub – Project hosting
 
 Power BI enables building interactive dashboards and real-time insights, which are essential for business decision-making .
 
@@ -154,13 +154,13 @@ Power BI enables building interactive dashboards and real-time insights, which a
 
 Steps performed:
 
-Data cleaning (handling missing values, formatting)
+- Data cleaning (handling missing values, formatting)
 
-Data transformation using Power Query
+- Data transformation using Power Query
 
-Creating relationships between tables
+- Creating relationships between tables
 
-Creating calculated columns and measures using DAX
+- Creating calculated columns and measures using DAX
 
 
 
