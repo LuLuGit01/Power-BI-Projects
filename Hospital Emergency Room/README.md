@@ -1,5 +1,16 @@
  # 🏥 Hospital Emergency Room Power BI Project
 
+### 🖼️ Dashboard Preview
+
+### Monthly View
+![](/Hospital%20Emergency%20Room/Dashboard%20Screenshots/Monthly%20View.png)
+### Consolidated View
+![](/Hospital%20Emergency%20Room/Dashboard%20Screenshots/Consolidated%20View.png)
+### Patient Details
+![](/Hospital%20Emergency%20Room/Dashboard%20Screenshots/Patient%20Details.png)
+### Key Takeaways
+![](/Hospital%20Emergency%20Room/Dashboard%20Screenshots/Key%20Takeaways.png)
+
 
 
 ## 📌 Project Overview
@@ -135,16 +146,6 @@ Includes:
 
 
 
-### 🖼️ Dashboard Preview
-
-### Monthly View
-![](/Hospital%20Emergency%20Room/Dashboard%20Screenshots/Monthly%20View.png)
-### Consolidated View
-![](/Hospital%20Emergency%20Room/Dashboard%20Screenshots/Consolidated%20View.png)
-### Patient Details
-![](/Hospital%20Emergency%20Room/Dashboard%20Screenshots/Patient%20Details.png)
-### Key Takeaways
-![](/Hospital%20Emergency%20Room/Dashboard%20Screenshots/Key%20Takeaways.png)
 
 ### 🛠️ Tools & Technologies
 

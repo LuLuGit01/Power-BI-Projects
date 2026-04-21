@@ -1,6 +1,12 @@
 # Car Sales Power BI Project
 
+### 🖼️ Dashboard Preview
 
+### Overview Page 
+![Overview Page](/Car%20Sales/Dashboard%20Screenshots/Car%20Sales%20Dashboard%20Screenshot.jpg)
+
+### Details Page
+![Details Page](/Car%20Sales/Dashboard%20Screenshots/Car%20Sales%20Dashboard%20Details%20Screenshot.jpg)
 
 ## 📌 Project Overview
 
@@ -122,15 +128,6 @@ Full transaction-level data including:
 
 - Date
 
-
-
-### 🖼️ Dashboard Preview
-
-### Overview Page 
-![Overview Page](/Car%20Sales/Dashboard%20Screenshots/Car%20Sales%20Dashboard%20Screenshot.jpg)
-
-### Details Page
-![Details Page](/Car%20Sales/Dashboard%20Screenshots/Car%20Sales%20Dashboard%20Details%20Screenshot.jpg)
 
 
 
