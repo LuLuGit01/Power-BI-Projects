@@ -18,23 +18,23 @@ This project follows a real-world business scenario where a car dealership wants
 
 The company needs a dynamic dashboard to:
 
-Track sales performance over time
+- Track sales performance over time
 
-Monitor key business KPIs
+- Monitor key business KPIs
 
-Identify trends and growth opportunities
+- Identify trends and growth opportunities
 
-Compare performance against previous periods
+- Compare performance against previous periods
 
 The dashboard provides insights into:
 
-Sales revenue
+- Sales revenue
 
-Average car prices
+- Average car prices
 
-Number of cars sold
+- Number of cars sold
 
-Regional and company performance
+- Regional and company performance
 
 
 
@@ -50,17 +50,17 @@ Regional and company performance
 
 The dashboard includes the following KPIs:
 
-YTD (Year-to-Date) Total Sales
+- YTD (Year-to-Date) Total Sales
 
-MTD (Month-to-Date) Total Sales
+- MTD (Month-to-Date) Total Sales
 
-YOY (Year-over-Year) Growth
+- YOY (Year-over-Year) Growth
 
-Average Price (YTD & MTD)
+- Average Price (YTD & MTD)
 
-Cars Sold (YTD & MTD)
+- Cars Sold (YTD & MTD)
 
-Difference between YTD and Previous Year (PTYD)
+- Difference between YTD and Previous Year (PTYD)
 
 
 
@@ -94,15 +94,15 @@ Map showing Cars Sold by Dealer Region
 
 Grid showing:
 
-Company Name
+- Company Name
 
-YTD Sales
+- YTD Sales
 
-Cars Sold
+- Cars Sold
 
-Average Price
+- Average Price
 
-% Contribution
+- % Contribution
 
 
 
@@ -110,17 +110,17 @@ Average Price
 
 Full transaction-level data including:
 
-Car Model
+- Car Model
 
-Customer Name
+- Customer Name
 
-Dealer Name
+- Dealer Name
 
-Region
+- Region
 
-Sales Amount
+- Sales Amount
 
-Date
+- Date
 
 
 
